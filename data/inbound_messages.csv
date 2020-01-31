@@ -1,4 +1,4 @@
-MessageText,Conversation Type,Is Marked as Spam,Manual Classification
+text,conversation_type,spam,manual_class
 Camila here are you still looking for hookup ? add my id Smily24 on whatsChat.surf its just like whtsap.,1,FALSE,Other Site
 hi,1,FALSE,Short Greeting
 "Heya, you responded to my CityXGuide ad a while back. I am sorry I did not reply to you sooner. I'm not really seeking a commited relationship right this moment, I just would like to find a no strings kind of deal. Atleast for the time being I don't have the time for a relationship, I have been keeping fairly busy with work recently. Would you like to get together for dinner or drinks sometime soon, I have some time tomorrow if you're available. Just so we can get to know each other, we'll need to find out what happens. Find me on CasDates.com I'm TightCurves27 there, I've got allot more pix and a couple videos there. My real phone number is also on there. This is how I get rid of all the fakes and flakes. Talk to you soon. <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MMd285f81533071f5389c434961abea0c3/Media/ME23d99d7abe661141a5b6fb33c88ef205</img>",1,FALSE,Other Site
@@ -30,18 +30,18 @@ Hey! I saw your AD on ADList24.io. what's donation,2,FALSE,Bot Response
 Hi are you busy right now,2,FALSE,Bot Response
 "Hey bro, this new place is crushing it for me. So many women lookingtodate.me. You should try it!!",1,FALSE,Other Site
 "Hey got your text are you wanting to meet up for a quicky?
- my mobile service is bad signal in my apt I just saw your msg.let’s chat here 3017207962",1,TRUE,Different Number
+ my mobile service is bad signal in my apt I just saw your msg.letâ€™s chat here 3017207962",1,TRUE,Different Number
 "Hey Im down for everything I can meet up as soon as ur ready my
- cell service is weak in my apt I just saw your msg.let’s chat here 3017155974",1,TRUE,Different Number
+ cell service is weak in my apt I just saw your msg.letâ€™s chat here 3017155974",1,TRUE,Different Number
 "Hey got your text are you wanting to meet up for a quicky?
- my mobile service is weak in my apt I just saw your msg.let’s chat here 3017207952",1,TRUE,Different Number
+ my mobile service is weak in my apt I just saw your msg.letâ€™s chat here 3017207952",1,TRUE,Different Number
 "Hey got your text are you wanting to meet up for a quicky?
  my
- cell service is bad signal in my apt I just saw your msg.let’s chat here 3017207962",1,TRUE,Different Number
-Hey Im down for everything I can meet up as soon as ur ready my phone service is weak in my apt I just saw your msg.let’s chat here 3018107950,1,FALSE,Different Number
+ cell service is bad signal in my apt I just saw your msg.letâ€™s chat here 3017207962",1,TRUE,Different Number
+Hey Im down for everything I can meet up as soon as ur ready my phone service is weak in my apt I just saw your msg.letâ€™s chat here 3018107950,1,FALSE,Different Number
 "Hello, I'm Jessica. I got your phone number from my friend of mine. Are you bored, stressed, or simply interested in a good time? I'm creative, energetic, sensual, and fun. My pictures are really me and taken recently. I am drama free and independent. On InstaNaughty.com/GFEJess I've got some more pictures and a few videos. I only accept bookings through them, for my security I use them to screen new clients. You'll always leave satisfied. <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MM9c9c945301ef0cb241b5ccd490f0b016/Media/ME143298d9e747fd6c4f61b7f8efb8587c</img>",1,FALSE,Other Site
-Hey Im down for everything I can meet up as soon as ur ready my phone service is terrible in my apt I just saw your msg.let’s chat here 3017155974,1,TRUE,Different Number
-Hey Im down for everything I can meet up as soon as ur ready my phone service is terrible in my apt I just saw your msg.let’s chat here 3017207952,1,TRUE,Different Number
+Hey Im down for everything I can meet up as soon as ur ready my phone service is terrible in my apt I just saw your msg.letâ€™s chat here 3017155974,1,TRUE,Different Number
+Hey Im down for everything I can meet up as soon as ur ready my phone service is terrible in my apt I just saw your msg.letâ€™s chat here 3017207952,1,TRUE,Different Number
 "Whats up, you responded to my City X Guide listing a bit ago. I'm sorry I didn't respond faster. Right now a serious relationship isn't something I'm trying to find, I just would like to find a no strings attached kind of deal. Would you wanna get together to have dinner or drinks sometime soon, if you have time maybe tomorrow. Find me on CasDates.com I'm SinfulDreams there, I've got allot more pics and a few videos there. My skype and real cell number are on there as well. I do this to weed out the fakes and flakes. <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MMb9866d962875b84cdb4c3c13213884e4/Media/MEff3fb19396c1173916bff1e531af16a4</img>",1,FALSE,Other Site
 "Are you ready for a total escape away from all the stress and troubles life has to offer? Then let me to be your sweet escape as I take you to a world of complete bliss! I'm not only easy on the eyes, but I am gentle and openminded as well. With beautiful soft curves, I am the girl nextdoor, the perfect mix of sweet and naughty. There's no rushing with me, I provide a total relaxed encounter for $125/hr. I use FuckrNow.com/NaughtyOne as a screening system inorder to keep us both safe. If you would like to setup a date you can contact me on there. Go with that feeling telling you to live on the wild side a little today and contact me, you won't be disappointed. Your satisfaction is mine. :) <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MM17bfa534cb36dfb4159239ea880d9042/Media/ME08fb67783733ade0a1c62f292cc7d37a</img>",1,FALSE,Other Site
 Can I volunteer?,1,FALSE,NA
@@ -177,7 +177,7 @@ Hi they I am doing a taxi uber service for outcalls if u need a ride call me fla
 Hey,1,FALSE,Short Greeting
 U got a daddy,2,FALSE,Bot Response
 "Hey, I liked your response to the City Guide post I had. I'm not interested in a traditional relationship right this moment, I'm just interested in have some fun with no strings. I'd like to get together for dinner, if you have time maybe tomorrow. I would just like to get comfortable, and then see where it goes. I have a photo gallery at HornyConnects.com for you, look me up, I am SexySin23 there. My real cell number is also on there. This is how I weed out all the flakes and fakes. Guess that's it for now. <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MMe46cc7f819ecf2f6591922b5e52c59f5/Media/ME221a791ad1b493ed7dd7cdc35a439808</img>",1,TRUE,Other Site
-"Hey Jon, this is Jennifer we chatted on Tinder before when I came to Seattle to visit my sister but we never met in person, I’m back in town again if you wanted to actually meet up while I’m here, are you around? ?
+"Hey Jon, this is Jennifer we chatted on Tinder before when I came to Seattle to visit my sister but we never met in person, Iâ€™m back in town again if you wanted to actually meet up while Iâ€™m here, are you around? ?
  
  -Jennifer",1,TRUE,NA
 "R u ready for a complete escape from all the stress and troubles life has to offer? Then let me to be your sweet escape as I take you to a world of complete ecstasy! There's no rush with me, I offer a total relaxed encounter for $125 per hour. I'm not only easy on the eyes, but I am gentle and openminded as well. With wonderful soft curves, I am the girl next door, the perfect mix of naughty and nice. I use FuckrNow.com/TightTanya as a booking system inorder to keep us both safe. If you would like to get together you can contact me on there. If you are looking for a girl who enjoys what she does then I'm your girl, I aim to please, you will never leave unsatisfied :) <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MMbe3c94bb896e1d5cd72cbd353e84bfab/Media/MEb57685556213e47b4f872e8058f591d4</img>",1,TRUE,Other Site
@@ -193,20 +193,20 @@ Hey so tomorrow is my girls birthday. I am trying to get everything possible tog
 [LinuxONE] Your LinuxONE Community Cloud registration code is: 248158,1,TRUE,Other Site
 "Are you looking for a complete escape away from all the stress and problems life has to offer? Well let me to be your sweet escape as I take you into a world of total ecstasy! I am not only easy on the eyes, but I'm sweet and openminded to. With beautiful soft curves, I am the girl nextdoor, the perfect mix of sweet and naughty. There is no preasure with me, I offer a total relaxed encounter for $125 an hour. I have FuckrNow.com/BabyDoll as a screening service for my safety. If you'd like to get together you can arrange it on there. Trust that feeling saying to live on the wild side a bit today and get in touch, you will not be disappointed. Your satisfaction is mine. :) <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MMce2acee5b457050f1ad104e41883d159/Media/MEa505fb5fe1f3c5695a318673fda6aa55</img>",1,TRUE,Other Site
 "Hush! (It's secret) I rub your dick against my throbbing wet pussy. We both want each otherbut I make you beg for it, or you make me beg for it.I'll stroke your cock, kiss you all over. (please keep it secret) Just Hit me Here:-http://bedfun.party/hushlove/ema",1,TRUE,Other Site
-"I'm Sophia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://sux.date/1/local/sophia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
-"I'm Amelia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://sux.date/1/local/amelia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
+"I'm Sophia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://sux.date/1/local/sophia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
+"I'm Amelia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://sux.date/1/local/amelia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
 "Mmm.. So wat are u up to, ?",1,FALSE,Short Greeting
-"I'm Amelia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://bedfun.party/hushlove/ema ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
+"I'm Amelia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://bedfun.party/hushlove/ema ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
 "Hey, happy you were interested in my City Guide listing. I provide a full GFE service, never rushed, 100% discreet, satisfaction guaranteed! I'm 100% independent. I can come to you or I have a hotel room if you would rather come to me. I have more pictures and a few videos on XoXLocals.com/Chloe7126 For my protection I also use them for the screening of clients. I'm sure you understand. Contact me there if you'd like to get together <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MM8325f7a8e5aba1364c259a620448b04b/Media/ME047286c2eb6075e8adfae3e30ce2498b</img>",1,TRUE,Other Site
 "Hi,I`m Cherry,I""m a real cute and passionate princess! Will you be my knight?. I love to entertain and play with myself in front of thousands!.Life is taken too seriously.Find me online ""Cherrystone"" and see more for yourself,My profile: http://charmdate.fun/Cherry I know we can find the half way to real pleasure,Fun and also hot,Naughty sex.Let's chat my profile chat room,It's totally FREE! No credit card needed.",1,TRUE,Other Site
 "Hello,I`m Luciana.I`m a hot girl,My lips are waiting for you and my body wants to feel your love. Step into my profile:http://charmdate.fun/luciana No need use your card info,Only submit your email and guide my pussy through your dick.Let's chat with me there & Share detals ""Luciana54""",1,TRUE,Other Site
 Ashley?,2,FALSE,Bot Response
-"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
-"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
+"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
+"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
 "Hey,I'm CarleInvite,Want to meet up again if you're interested.I just wanna hook up & get it on CLICK HERE: http://fuxme.date/0/cam/chat/carle verify yourself for me so i'll feel safe & (No Credit Card Required!) Safe profile Don't worry it will not ask you card number.Just JOIN use your email id and Confirm your email.Then let,s chat discuss when & where me meet up.",1,TRUE,Other Site
 "Hey, came across cityxguide. Are you looking for?",2,FALSE,Bot Response
-"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
-"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
+"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
+"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
 "Hey Gorgeous,
  I love sex, looking for a car partner.
  if u interested then contact my xx profile app :https://sexxxxcherry.com/rqjigjzrtx
@@ -215,40 +215,40 @@ Ashley?,2,FALSE,Bot Response
  if u not than just bye",1,TRUE,Other Site
 "I'm so fucking horny,I just need a man to fuck me hard,Now let's chat with me here: http://funbed.date/victoria share contact details.JUST PUT YOUR EMAIL Then CONFIRM YOUR MAIL TO Free Join.I can see you are local,NO NEED TO SUBMIT ANY CARD NUMBER TO REGISTER.If you Already in there Just Search me Victoria_H424",1,TRUE,Other Site
 In terms of what,1,FALSE,Genuine PV
-"Hello I'm Sativa Rose,Baby how are you? I would like to meet you please and I would like to make an appointment for just submit your mail here: http://hotmommeetup.info/0/cam/askme4date if you go where it says verify your identity and put in the info it ask, it will tell you my home location.No need submit any card for Free Registration.IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…Chat with me Sativa_Rose I,m now online.",1,TRUE,Other Site
-"Hello I'm Ashley Medison,Baby how are you? I would like to meet you please and I would like to make an appointment for just submit your mail here: https://gonow.fun/0/00T if you go where it says verify your identity and put in the info it ask, it will tell you my home location.No need submit any card for Free Registration.IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…Chat with me Ashley_Medison I,m now online.",1,TRUE,Other Site
+"Hello I'm Sativa Rose,Baby how are you? I would like to meet you please and I would like to make an appointment for just submit your mail here: http://hotmommeetup.info/0/cam/askme4date if you go where it says verify your identity and put in the info it ask, it will tell you my home location.No need submit any card for Free Registration.IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦Chat with me Sativa_Rose I,m now online.",1,TRUE,Other Site
+"Hello I'm Ashley Medison,Baby how are you? I would like to meet you please and I would like to make an appointment for just submit your mail here: https://gonow.fun/0/00T if you go where it says verify your identity and put in the info it ask, it will tell you my home location.No need submit any card for Free Registration.IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦Chat with me Ashley_Medison I,m now online.",1,TRUE,Other Site
 "I wanna fuck no-string attached,Now let's chat with me here https://gonow.fun/0/00T/A/343 share contact details.NO NEED TO SUBMIT ANY CARD NUMBER,JUST SUBMIT YOUR EMAIL.So you'r 100% safe.Serious gentlemen only not looking to waste my time or your time,Added to Id:Ashley4w",1,TRUE,Other Site
 "Are you old enough to handle me?Create a FREE account to watch me on now http://srv.to/2Qg JUST SUBMIT YOUR MAIL.So First Connect With Me complete registration and prove that you are real chat with me..It's totaly free,added to Kandie_Joy Not anyone else,Let's chat share contact details.",1,TRUE,Other Site
 "I wanna fuck no-string attached,Now let's chat with me here https://gonow.fun/1/007/Viktoria share contact details.NO NEED TO SUBMIT ANY CARD NUMBER,JUST SUBMIT YOUR EMAIL.So you'r 100% safe.Serious gentlemen only not looking to waste my time or your time,Added to Id:Viktoria007",1,TRUE,Other Site
 Hello. You messaged me off my other number. What is your non profit/these resources you speak of?,1,FALSE,Genuine PV
 "I wanna fuck no-string attached,Now let's chat with me here https://meetsingle.site/0/007/Viktoria share contact details.NO NEED TO SUBMIT ANY CARD NUMBER,JUST SUBMIT YOUR EMAIL.So you'r 100% safe.Serious gentlemen only not looking to waste my time or your time,Added to Id:Viktoria007",1,TRUE,Other Site
 "Hi Honey,I'm Anastasia,Seeking a Best Partner For Hooksup Right Now.I want to sex with you Today or Tonight. My Profile>>>https://meetsingle.site/1/A/Adr45f (It's 100% safe, No need CC) Create a free Profile & knock me>>>S_Anastasia_X I'm waiting for sucking your dick",1,TRUE,Other Site
-"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://fuxme.date/0/cam/Olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
+"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://fuxme.date/0/cam/Olivia ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
 "Hey Dear
  
  I m ur dear girl , do u want sexy talk and one night stand with me ?
  
- Well, I think you can see where I’m going with u .
+ Well, I think you can see where Iâ€™m going with u .
  
  Pls join me here: emilymorell.com
  
  homealone. There is no requirement to have any credit cards
- so I think we both are safe.Come to chat and let’s meet.",1,TRUE,Other Site
+ so I think we both are safe.Come to chat and letâ€™s meet.",1,TRUE,Other Site
 "Are you old enough to handle me?Create a FREE account to watch me on now http://srv.to/2KH JUST SUBMIT YOUR MAIL.So First Connect With Me complete registration and prove that you are real chat with me..It's totaly free,added to Kandie_Joy Not anyone else,Let's chat share contact details.",1,TRUE,Other Site
 "Looking for a gentle guy to come over and play with my pussy.
  I'm just in bed naked waiting For a guy to lift my pussy up and stick his tongue in my pussy.
  Pls join me here: http://bit.do/loverpussy69
  Get my pussy nice and wet then slowly start to finger my tight pussy lube me up if you have lube I want to see how many fingers can fit :)
  There is no requirement to have any credit cards.
- so I think we both are safe.Come to chat and let’s meet.",1,FALSE,Other Site
+ so I think we both are safe.Come to chat and letâ€™s meet.",1,FALSE,Other Site
 "I am looking for the sex.
  
- it’s easy verify for get my contact : http://srv.to/2GW
+ itâ€™s easy verify for get my contact : http://srv.to/2GW
  
  Mind it No Credit Card is required here to join.
  U just free join this site. i will wait here...",1,TRUE,Other Site
 Hey baby its wendy doing out calls 200 hour text me your address,1,FALSE,Personal
-"I'm Silvia,You can have sex with me whenever you want.Do not try-any other effort.Here it is Free Registration and Chat With Me ON-there: http://meetsingle.site/3/silvia There is No need submit-any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,TRUE,Other Site
+"I'm Silvia,You can have sex with me whenever you want.Do not try-any other effort.Here it is Free Registration and Chat With Me ON-there: http://meetsingle.site/3/silvia There is No need submit-any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,TRUE,Other Site
 Ok,1,FALSE,NA
 "I know you want my pussy,Now let's chat with me here http://fuxme.date/0/nnn/ashley share contact details.NO NEED TO SUBMIT ANY CARD NUMBER,JUST PUT YOUR EMAIL TO Free Join.So you'r 100% safe.Serious gentlemen only not looking to waste my time or waste your time yes I can host or I can come to you whatever is easier for you babe,Id:Ashley212",1,TRUE,Other Site
 This phone number is no longer in service.,1,FALSE,NA
@@ -256,10 +256,10 @@ This phone number is no longer in service.,1,FALSE,NA
 This phone number is no longer in service.,1,FALSE,NA
 "I want to fuck someone new! I want to have hot fuck session with a stranger.
  I'm looking for a guy who likes to be pleasured and wants to pleasure me.
- text my email >> cuddle694@gmail.com »",1,TRUE,Other Site
+ text my email >> cuddle694@gmail.com Â»",1,TRUE,Other Site
 Hey baby I have an eight ball in my pocket now all I need is something tasty and sweet do you want to play?,2,FALSE,Bot Response
 "Hey,I'm Kara,Want to meet up again if you're interested.Safety frist,I'll give you hard sex.Contact my profile Chat with me: http://camgirls.men/2/x/kara/8X7sj8w My pic&also here.You know that? NO NEED TO SUBMIT ANY CARD NUMBER,NO SIGN-UP FEES.EVERS!JUST PUT YOUR EMAIL TO REGISTER OR LOGIN If you Already REGISTER.Search Kara_4you chat room.",1,TRUE,Other Site
-"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia121 ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFY…",1,FALSE,Other Site
+"I'm Olivia,You can have sex with me whenever you want.Do not try any other effort.Here it is Free Registration and Chat With Me: http://funbed.date/olivia121 ON there There is No need submit any card for Free Registration.Just use your email and search me with my number..IT WILL NOT ASK ANY CARD.JUST MAIL VERIFYâ€¦",1,FALSE,Other Site
 What,1,FALSE,NA
 This phone number is no longer in service.,1,FALSE,NA
 This phone number is no longer in service.,1,FALSE,NA
@@ -277,7 +277,7 @@ STOP,1,FALSE,Genuine PV
 "Hi we are the largest adult ad agency of backpage.com, since backpage is offline for unknow reason, we are moving forward to the new classifieds website adlist24.com, feel free to checkout the most update adult service on adlist24.com. we programmers are working hard to rebuild the backpage now.",1,FALSE,Other Site
 Hey so I'm back at the hospital again I was just wondering if you could call me back as soon as possible I'm at Swedish we're trying to figure out a plan to get me into somewhere you go to call me right back,1,FALSE,Genuine PV
 ,1,FALSE,NA
-Good morning. I found your post. Where abouts are you located? I’m in Bellevue.,2,FALSE,Bot Response
+Good morning. I found your post. Where abouts are you located? Iâ€™m in Bellevue.,2,FALSE,Bot Response
 Hey its brittney. Can you talk about your organization now?,1,FALSE,Genuine PV
 Is this REST?,1,FALSE,Genuine PV
 the newest classified source of escorts worldwide adlist24.com check out the most up to date adult services,1,FALSE,Other Site
@@ -289,7 +289,7 @@ Good morning!,2,FALSE,Bot Response
 Hey hun you working with anybody,2,FALSE,Bot Response
 Hey baby.. I just wanna let you know that you do have other options and better place to go where its love and joy all around you.. A hoe is only a 9-5..You deserve to be catered to after a hard day's work.. Feet rub back rub..when i go out to eat i wanna take you out to eat.. When i go shopping i wanna take u shopping...i will do watever it takes to give you the same love you give me baby.. So after reading this look up and smile thats i future shinning so bright... Dont hesitate to call or text a real man/pimp,2,FALSE,Bot Response
 Telegram code 42466,1,FALSE,NA
-Hey Jackie it’s Cheyenne,1,FALSE,Genuine PV
+Hey Jackie itâ€™s Cheyenne,1,FALSE,Genuine PV
 Hey,2,FALSE,Bot Response
 Hey!,1,FALSE,Genuine PV
 Bitchhhhhhh if you don't stop texting my phone about that REST shit it's gone be problems like for real and whoever got you texting my phone tell them to stop with the lies,1,FALSE,Genuine PV
@@ -338,14 +338,14 @@ Hey,2,FALSE,Bot Response
  My name is Kat, and I am the founder & CEO of Discreet",2,FALSE,Bot Response
 Hi! Are you available tonight?:),2,FALSE,Bot Response
 Hello hun...hru...I saw your ad on BP...are you available?,2,FALSE,Bot Response
-What’s up,2,FALSE,Bot Response
+Whatâ€™s up,2,FALSE,Bot Response
 Hi,2,FALSE,Bot Response
 Hey,2,FALSE,Bot Response
 Hey,2,FALSE,Bot Response
 <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MM7ae36231dd53a23f8f1b7b6a5e9c07e8/Media/ME68a7cadd385af48c3a1fe15efc9a48b1</img>,2,FALSE,Image
 Car date?,2,FALSE,Bot Response
 Car date?,2,FALSE,Bot Response
-What’s your rates?,2,FALSE,Bot Response
+Whatâ€™s your rates?,2,FALSE,Bot Response
 "Hey how close are you to UW campus? 29, clean guy here <img>https://api.twilio.com/2010-04-01/Accounts/AC364c6274101b6b137b433c79b795bba2/Messages/MM876a2eb4c2af7d129d3f1e9128558041/Media/MEa0459015061c669de2e40c6b4e99ed92</img>",2,FALSE,Bot Response
 "Saw your post. Do you have an incall?
  -Sent free from TextNow.com",2,FALSE,Bot Response
